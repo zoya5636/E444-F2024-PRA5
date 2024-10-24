@@ -6,8 +6,6 @@ import time
 import pytest
 import csv
 
-test_file_name = "tests.csv"
-
 testing_news = {
     "fake1": "This is fake news",
     "fake2": "This is also fake news",
